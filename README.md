@@ -1,17 +1,17 @@
 # 🐍 <ins>**Snake Evangelion**</ins>
 
-A Snake game made with Python and Pygame, inspired by the universe of <u>Neon Genesis Evangelion</u>.(My first project ever,be gentle pls !)
+A ***Snake game*** made with ***Python*** and ***Pygame***, inspired by the universe of <ins>***Neon Genesis Evangelion***</ins>.(My first project ever,be gentle pls !)
 
 ## 🎮 <ins>**About the game**</ins>
 
-This is a personal project based on the classic Snake game.
-I developed it from thonny using Python and Pygame, while adding my own graphics, sounds and music inspired by Evangelion.
+This is a personal project based on the classic ***Snake game***.
+I developed it from ***thonny*** using ***Python*** and ***Pygame***, while adding my own graphics, sounds and music inspired by <ins>***Evangelion***</ins>.
 
 ## ✨ <ins>**Features**</ins>
 
-Classic Snake gameplay;
+Classic ***Snake gameplay***;
 
-Evangelion-inspired visual design;
+***Evangelion***-inspired visual design;
 
 Custom graphics;
 
@@ -19,23 +19,23 @@ Background music and sound effects;
 
 Score system;
 
-Increasing difficulty
+Increasing difficulty.
 
 ## 🛠️ <ins>**Technologies**</ins>
 
-Python and Pygame
+***Python*** and ***Pygame***
 
 ## 🚀 <ins>**How to run**</ins>
 
-1)Install Python
+1)Install ***Python***
 
-2)Install Pygame
+2)Install ***Pygame***
 
-3)pip install pygame
+3)pip install ***pygame***
 
 4)Download or clone this repository
 
-5)Run the main Python file:
+5)Run the main ***Python*** file:
 
 python snake.py
 
@@ -45,7 +45,7 @@ Make sure the game's images, sounds and music remain in their original folders s
 
 This project helped me practice:
 
-Python programming;
+***Python*** programming;
 
 Game loops and event handling;
 
@@ -55,7 +55,7 @@ Working with images and sounds;
 
 Organizing assets in a project;
 
-Debugging and improving an existing program
+Debugging and improving an existing program.
 
 ## 📸 <ins>**Screenshots**</ins>
 
@@ -66,4 +66,4 @@ Debugging and improving an existing program
 
 ## 📌 <ins>**Project status**</ins>
 
-Completed personal project. (no ia was used while making it,I only used my  HS cs classes and internet researches to make it,which is why I'm so proud of it even tho it doesn't look crazy)
+<ins>***Completed personal project***</ins>. (no ia was used while making it,I only used my  ***HS cs classes*** and ***internet researches*** to make it,which is why I'm so proud of it even tho it doesn't look crazy)
