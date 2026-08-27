@@ -1,6 +1,6 @@
 # 🐍 <ins>**Snake Evangelion**</ins>
 
-A ***Snake game*** made with ***Python*** and ***Pygame***, inspired by the universe of <ins>***Neon Genesis Evangelion***</ins>.(My first project ever,be gentle pls !)
+A ***Snake game*** made with ***Python*** and ***Pygame***, inspired by the universe of <ins>***Neon Genesis Evangelion***</ins>. (My first project ever,be gentle pls !)
 
 ## 🎮 <ins>**About the game**</ins>
 
