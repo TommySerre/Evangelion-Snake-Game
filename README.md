@@ -1,13 +1,13 @@
-🐍  <span style="text-decoration: underline;">Snake Evangelion</span>
+🐍  <ins>Snake Evangelion</ins>
 
 A Snake game made with Python and Pygame, inspired by the universe of <u>Neon Genesis Evangelion</u>.(My first project ever,be gentle pls !)
 
-🎮 About the game
+🎮 </ins>About the game</ins>
 
 This is a personal project based on the classic Snake game.
 I developed it from thonny using Python and Pygame, while adding my own graphics, sounds and music inspired by Evangelion.
 
-✨ Features
+✨ <ins>eatures</ins>
 
 Classic Snake gameplay
 
@@ -21,11 +21,11 @@ Score system
 
 Increasing difficulty
 
-🛠️ Technologies
+🛠️ <ins>Technologies</ins>
 
 Python and Pygame
 
-🚀 How to run
+🚀 <ins>How to run</ins>
 
 Install Python
 
@@ -41,7 +41,7 @@ python snake.py
 
 Make sure the game's images, sounds and music remain in their original folders so that the game can load them correctly.
 
-📚 What I learned
+📚 <ins>What I learned</ins>
 
 This project helped me practice:
 
@@ -57,13 +57,13 @@ Organizing assets in a project;
 
 Debugging and improving an existing program;
 
-📸 Screenshots
+📸 </ins>Screenshots</ins>
 
 <img width="1400" height="825" alt="image" src="https://github.com/user-attachments/assets/843450e6-6e97-42b1-b277-4f0e1916983d" />
 <img width="1396" height="819" alt="image" src="https://github.com/user-attachments/assets/dbf37ea3-04d7-4242-9973-e9b245637d76" />
 
 
 
-📌 Project status
+📌<ins> Project status</ins>
 
 Completed personal project. (no ia was used while making it,I only used my  HS cs classes and internet researches to make it,which is why I'm so proud of it even tho it doesn't look crazy)
