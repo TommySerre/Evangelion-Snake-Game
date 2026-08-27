@@ -39,7 +39,7 @@ py -m pip install pygame==2.6.1
 
 5) ***Run the game***:
 
-py "Le vrai bon.py"
+py "Evangelion-Snake.py"
 
 ***Make sure*** the game's ***images*** and ***music*** remain in their ***original folders*** so that the game ***can load them correctly***.
 
