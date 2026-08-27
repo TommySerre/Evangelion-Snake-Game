@@ -39,13 +39,13 @@ Classic ***Snake gameplay***;
 
 python snake.py
 
-**Make sure** the game's **images** and **music** remain in their **original folders** so that the game can load them correctly.
+**Make sure** the game's **images** and **music** remain in their **original folders** so that the **game** can load them **correctly**.
 
 ## 📚 <ins>**What I learned**</ins>
 
 This **project** helped me practice:
 
-***Python*** programming;
+***Python programming***;
 
 **Game loops** and **event handling**;
 
