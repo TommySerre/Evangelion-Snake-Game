@@ -23,7 +23,7 @@ Increasing difficulty.
 
 ## 🛠️ <ins>**Technologies**</ins>
 
-***Python*** and ***Pygame***
+***Python*** and ***Pygame***.
 
 ## 🚀 <ins>**How to run**</ins>
 
