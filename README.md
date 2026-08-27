@@ -34,14 +34,16 @@ Classic ***Snake gameplay***;
 3) Open the ***project folder***.
  
 4)***Install Pygame***:
+
 py -m pip install pygame==2.6.1
 
 5)***Run the game***:
+
 py "Le vrai bon.py"
 
 ***Make sure*** the game's ***images*** and ***music*** remain in their ***original folders*** so that the game ***can load them correctly***.
 
-##⚠️ <ins>***Having trouble launching the game?***</ins>
+## ⚠️ <ins>***Having trouble launching the game?***</ins>
 
 If you get an error ***such as***:
 
