@@ -11,7 +11,7 @@ I developed it from ***thonny*** using ***Python*** and ***Pygame***, while addi
 
 Classic ***Snake gameplay***;
 
-***Evangelion*-inspired*** visual design;
+***Evangelion-inspired*** visual design;
 
 **Custom graphics**;
 
