@@ -27,43 +27,43 @@ Classic ***Snake gameplay***;
 
 ## 🚀 <ins>**How to run**</ins>
 
-1) Download the repository
-2) 
-3) Make sure Python 3.10.11 or a compatible version is installed.
-4) 
-5) Open the project folder.
-6) 
-4)Install Pygame:
+1) ***Download the repository***
+
+2) ***Make sure Python 3.10.11*** or a ***compatible version is installed***.
+ 
+3) Open the ***project folder***.
+ 
+4)***Install Pygame***:
 py -m pip install pygame==2.6.1
 
-5)Run the game:
+5)***Run the game***:
 py "Le vrai bon.py"
 
-Make sure the game's images, sounds and music remain in their original folders so that the game can load them correctly.
+***Make sure*** the game's ***images*** and ***music*** remain in their ***original folders*** so that the game ***can load them correctly***.
 
-⚠️ Having trouble launching the game?
+##⚠️ <ins>***Having trouble launching the game?***</ins>
 
-If you get an error such as:
+If you get an error ***such as***:
 
 ModuleNotFoundError: No module named 'pygame'
 
-Pygame may not be installed for the version of Python being used to launch the game.
+**_Pygame_** may not be **installed** for the **version** of **_Python_** being used to **launch the game**.
 
-First, try:
+***First, try***:
 
 py -m pip install pygame==2.6.1
 
-Then launch the game again:
+Then ***launch the game again***:
 
 py "Le vrai bon.py"
 
-If it still doesn't work, try:
+If it ***still doesn't work, try***:
 
 python -m pip install pygame==2.6.1
 
-and then launch the game again.
+and then ***launch the game again***.
 
-Make sure that Pygame is installed in the same Python environment that you use to run the game.
+***Make sure*** that **_Pygame_** is **installed** in the **same _Python_ environment** that you use to **run the game**.
 
 ## 📚 <ins>**What I learned**</ins>
 
