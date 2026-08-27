@@ -9,15 +9,15 @@ I developed it from thonny using Python and Pygame, while adding my own graphics
 
 ## ✨ <ins>**Features**</ins>
 
-Classic Snake gameplay
+Classic Snake gameplay;
 
-Evangelion-inspired visual design
+Evangelion-inspired visual design;
 
-Custom graphics
+Custom graphics;
 
-Background music and sound effects
+Background music and sound effects;
 
-Score system
+Score system;
 
 Increasing difficulty
 
@@ -27,15 +27,15 @@ Python and Pygame
 
 ## 🚀 <ins>**How to run**</ins>
 
-Install Python
+1)Install Python
 
-Install Pygame:
+2)Install Pygame
 
-pip install pygame
+3)pip install pygame
 
-Download or clone this repository
+4)Download or clone this repository
 
-Run the main Python file:
+5)Run the main Python file:
 
 python snake.py
 
@@ -55,7 +55,7 @@ Working with images and sounds;
 
 Organizing assets in a project;
 
-Debugging and improving an existing program;
+Debugging and improving an existing program
 
 ## 📸 <ins>**Screenshots**</ins>
 
