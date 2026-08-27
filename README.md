@@ -33,11 +33,11 @@ Classic ***Snake gameplay***;
  
 3) Open the ***project folder***.
  
-4)***Install Pygame***:
+4) ***Install Pygame***:
 
 py -m pip install pygame==2.6.1
 
-5)***Run the game***:
+5) ***Run the game***:
 
 py "Le vrai bon.py"
 
