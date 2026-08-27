@@ -1,4 +1,4 @@
-🐍 <u>Snake Evangelion</u>
+🐍 # Snake Evangelion
 
 A Snake game made with Python and Pygame, inspired by the universe of <u>Neon Genesis Evangelion</u>.(My first project ever,be gentle pls !)
 
