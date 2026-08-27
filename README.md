@@ -4,22 +4,22 @@ A ***Snake game*** made with ***Python*** and ***Pygame***, inspired by the univ
 
 ## 🎮 <ins>**About the game**</ins>
 
-This is a personal project based on the classic ***Snake game***.
-I developed it from ***thonny*** using ***Python*** and ***Pygame***, while adding my own graphics, sounds and music inspired by <ins>***Evangelion***</ins>.
+This is a **personal project** based on the classic ***Snake game***.
+I developed it from ***thonny*** using ***Python*** and ***Pygame***, while adding my **own** graphics and **music** inspired by <ins>***Evangelion***</ins>.
 
 ## ✨ <ins>**Features**</ins>
 
 Classic ***Snake gameplay***;
 
-***Evangelion***-inspired visual design;
+***Evangelion*-inspired*** visual design;
 
-Custom graphics;
+**Custom graphics**;
 
-Background music and sound effects;
+**Background music**;
 
-Score system;
+**Score system**;
 
-Increasing difficulty.
+**Increasing difficulty**.
 
 ## 🛠️ <ins>**Technologies**</ins>
 
@@ -33,29 +33,29 @@ Increasing difficulty.
 
 3)pip install ***pygame***
 
-4)Download or clone this repository
+4)Download or clone this **repository**
 
 5)Run the main ***Python*** file:
 
 python snake.py
 
-Make sure the game's images, sounds and music remain in their original folders so that the game can load them correctly.
+**Make sure** the game's **images** and **music** remain in their **original folders** so that the game can load them correctly.
 
 ## 📚 <ins>**What I learned**</ins>
 
-This project helped me practice:
+This **project** helped me practice:
 
 ***Python*** programming;
 
-Game loops and event handling;
+**Game loops** and **event handling**;
 
-Collision detection;
+**Collision detection**;
 
-Working with images and sounds;
+Working with **images** and **sounds**;
 
-Organizing assets in a project;
+Organizing **assets** in a project;
 
-Debugging and improving an existing program.
+**Debugging** and **improving** an existing program.
 
 ## 📸 <ins>**Screenshots**</ins>
 
