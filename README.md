@@ -8,6 +8,7 @@ This is a personal project based on the classic Snake game.
 I developed it from thonny using Python and Pygame, while adding my own graphics, sounds and music inspired by Evangelion.
 
 ✨ Features
+
 Classic Snake gameplay
 Evangelion-inspired visual design
 Custom graphics
@@ -16,10 +17,11 @@ Score system
 Increasing difficulty
 
 🛠️ Technologies
-Python
-Pygame
+
+Python and Pygame
 
 🚀 How to run
+
 Install Python.
 Install Pygame:
 pip install pygame
