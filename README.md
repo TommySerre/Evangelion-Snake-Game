@@ -10,10 +10,15 @@ I developed it from thonny using Python and Pygame, while adding my own graphics
 ✨ Features
 
 Classic Snake gameplay
+
 Evangelion-inspired visual design
+
 Custom graphics
+
 Background music and sound effects
+
 Score system
+
 Increasing difficulty
 
 🛠️ Technologies
@@ -22,11 +27,16 @@ Python and Pygame
 
 🚀 How to run
 
-Install Python.
+Install Python
+
 Install Pygame:
+
 pip install pygame
-Download or clone this repository.
+
+Download or clone this repository
+
 Run the main Python file:
+
 python snake.py
 
 Make sure the game's images, sounds and music remain in their original folders so that the game can load them correctly.
@@ -35,12 +45,17 @@ Make sure the game's images, sounds and music remain in their original folders s
 
 This project helped me practice:
 
-Python programming
-Game loops and event handling
-Collision detection
-Working with images and sounds
-Organizing assets in a project
-Debugging and improving an existing program
+Python programming;
+
+Game loops and event handling;
+
+Collision detection;
+
+Working with images and sounds;
+
+Organizing assets in a project;
+
+Debugging and improving an existing program;
 
 📸 Screenshots
 
