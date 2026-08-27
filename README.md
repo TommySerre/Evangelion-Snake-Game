@@ -7,7 +7,7 @@ A Snake game made with Python and Pygame, inspired by the universe of <u>Neon Ge
 This is a personal project based on the classic Snake game.
 I developed it from thonny using Python and Pygame, while adding my own graphics, sounds and music inspired by Evangelion.
 
-✨ <ins>eatures</ins>
+✨ <ins>Features</ins>
 
 Classic Snake gameplay
 
