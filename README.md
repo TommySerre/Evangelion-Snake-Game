@@ -57,7 +57,7 @@ Organizing assets in a project;
 
 Debugging and improving an existing program;
 
-## 📸## <ins>**Screenshots**</ins>
+## 📸 <ins>**Screenshots**</ins>
 
 <img width="1400" height="825" alt="image" src="https://github.com/user-attachments/assets/843450e6-6e97-42b1-b277-4f0e1916983d" />
 <img width="1396" height="819" alt="image" src="https://github.com/user-attachments/assets/dbf37ea3-04d7-4242-9973-e9b245637d76" />
