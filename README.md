@@ -92,4 +92,4 @@ Organizing **assets** in a project;
 
 ## <ins>**Project status**</ins>
 
-<ins>***Completed personal project***</ins>. (no ia was used while making it,I only used my  ***HS cs classes*** and ***internet researches*** to make it,which is why I'm so proud of it even tho it doesn't look crazy)
+<ins>***Completed personal project***</ins>. (no ia was used while making it,I only used my  ***highschool cs classes*** and ***internet researches*** to make it,which is why I'm so proud of it even tho it doesn't look crazy)
