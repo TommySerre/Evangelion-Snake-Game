@@ -43,7 +43,7 @@ py "Evangelion-Snake.py"
 
 ***Make sure*** the game's ***images*** and ***music*** remain in their ***original folders*** so that the game ***can load them correctly***.
 
-## ins>***Having trouble launching the game?***</ins>
+## <ins>***Having trouble launching the game?***</ins>
 
 If you get an error ***such as***:
 
